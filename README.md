@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/jineshprajapati"><img src="https://api.daily.dev/devcards/v2/K4D9I4CEHftsqTYEy4SFd.png?r=58b" width="356" alt="Jinesh Prajapati's Dev Card"/></a>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/vc-jinesh/vc-jinesh/blob/output/github-contribution-grid-snake.svg">
