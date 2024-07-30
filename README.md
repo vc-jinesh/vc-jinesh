@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **vc-jinesh/vc-jinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/jineshprajapati"><img src="https://api.daily.dev/devcards/v2/K4D9I4CEHftsqTYEy4SFd.png?r=58b" width="356" alt="Jinesh Prajapati's Dev Card"/></a>
+<a href="https://app.daily.dev/jineshprajapati"><img src="https://api.daily.dev/devcards/v2/K4D9I4CEHftsqTYEy4SFd.png?type=wide&r=pel" width="652" alt="Jinesh Prajapati's Dev Card"/></a>
 
 <div align="center">
   <picture>
