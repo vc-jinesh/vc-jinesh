@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/jineshprajapati"><img src="https://api.daily.dev/devcards/v2/K4D9I4CEHftsqTYEy4SFd.png?type=wide&r=32l" width="652" alt="Jinesh Prajapati's Dev Card"/></a>
-<div align="center">
+<a href="https://app.daily.dev/jineshprajapati"><img src="https://api.daily.dev/devcards/v2/K4D9I4CEHftsqTYEy4SFd.png?type=wide&r=lgk" width="652" alt="Jinesh Prajapati's Dev Card"/></a><div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/vc-jinesh/vc-jinesh/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/vc-jinesh/vc-jinesh/blob/output/github-contribution-grid-snake.svg">
